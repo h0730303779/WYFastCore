@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYCore.Web", "WYFast.Web\WYCore.Web.csproj", "{00EE8A37-3342-4036-9CD7-E98A3E5CB877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYFast.Web", "WYFast.Web\WYFast.Web.csproj", "{00EE8A37-3342-4036-9CD7-E98A3E5CB877}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYFast.Core", "WYFast.Core\WYFast.Core.csproj", "{DD006DF3-D034-4368-9301-05145FE7F236}"
 EndProject

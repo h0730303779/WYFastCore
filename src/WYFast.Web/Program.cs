@@ -14,6 +14,11 @@ namespace WYFast.Web
     {
         public static void Main(string[] args)
         {
+            //var builder = new ConfigurationBuilder()
+            //    .SetBasePath(env.ContentRootPath)
+            //    .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+            //    .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+            //    .AddEnvironmentVariables();
             CreateWebHostBuilder(args).Build().Run();
         }
 
