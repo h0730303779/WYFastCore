@@ -11,7 +11,7 @@ namespace WYCore.Web.Areas.Admin.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return Redirect("/Admin/Main/AdminPretty");
         }
 
 

@@ -1,5 +1,5 @@
 ﻿@{
-    bool isUserMessage = true;
+    bool isUserMessage = false;
     var systemName = WYFast.Web.Util.UtilConfig.GetValue("SystemName");
     var userId = WYFast.Web.Util.UtilConfig.GetProvider().UserId;
     var userName = WYFast.Web.Util.UtilConfig.GetProvider().UserName;
@@ -35,7 +35,7 @@
         <!--即时通信end-->
     }
     <script>
-        var contentPath = '@Url.Content("~")'.substr(0, '@Url.Content("~")'.length - 1);
+        var contentPath ='/Admin';
         $(function () {
             if ('@isUserMessage' == 'True') {
                 IMInit({
