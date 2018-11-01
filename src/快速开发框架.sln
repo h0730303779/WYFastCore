@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYCore.Web", "WYFast.Web\WYCore.Web.csproj", "{00EE8A37-3342-4036-9CD7-E98A3E5CB877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYFast.Core", "WYFast.Core\WYFast.Core.csproj", "{DD006DF3-D034-4368-9301-05145FE7F236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EE8A37-3342-4036-9CD7-E98A3E5CB877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EE8A37-3342-4036-9CD7-E98A3E5CB877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EE8A37-3342-4036-9CD7-E98A3E5CB877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EE8A37-3342-4036-9CD7-E98A3E5CB877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD006DF3-D034-4368-9301-05145FE7F236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD006DF3-D034-4368-9301-05145FE7F236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD006DF3-D034-4368-9301-05145FE7F236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD006DF3-D034-4368-9301-05145FE7F236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01C725E-8FCA-433B-A079-0BAF79F36540}
+	EndGlobalSection
+EndGlobal
