@@ -52,5 +52,25 @@ namespace WYCore.Web.Areas.Admin.Controllers
         {
             return View();
         }
+
+        public IActionResult AdminDefaultDesktop()
+        {
+            return View();
+        }
+
+        public IActionResult AdminLTEDesktop()
+        {
+            return View();
+        }
+
+        public IActionResult AdminPrettyDesktop()
+        {
+            return View();
+        }
+
+        public IActionResult AdminWindosDesktop()
+        {
+            return View();
+        }
     }
 }
