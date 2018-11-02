@@ -6,7 +6,8 @@ NetCore敏捷框架
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1102/094836_893e4e51_664273.png "U0VTM75$72HUX_JI(V4WLVR.png")
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1102/094853_b7f7da67_664273.png "YM`H_Y6QM3KD)EPG`DTZP(J.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1102/095539_65e4a730_664273.png "~KRS}HGAA1QC8M8)[QT]QLB.png")
+
 
 #### 软件架构
 软件架构说明
